@@ -49,7 +49,7 @@
                     <input type="hidden" name="action" value="join">
                     <input type="submit" value="Return">
                 </form>
-
+                 <a href="https://memo2572003-cdd24867e0ef.herokuapp.com" class="my-button">My home page</a>
             </body>
 
             </html>
